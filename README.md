@@ -1,0 +1,3 @@
+# readmedocsplay
+
+Experiments with github
